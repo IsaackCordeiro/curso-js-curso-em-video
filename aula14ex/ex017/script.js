@@ -14,6 +14,4 @@ function gerarTabuada(){
             res.appendChild(item)
         }
     }
-
-    
 }
